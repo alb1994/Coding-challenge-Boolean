@@ -1,0 +1,64 @@
+body{
+background-size:cover;
+background-repeat: no-repeat;
+background-position: 0 -10;
+padding-top: 30px;
+padding-bottom: 60px;
+}
+.rettangolo_semitrasparente{
+width: 1300px;
+height: 600px;
+margin: auto;
+background-color: rgba(105, 105, 105, 0.5);
+padding-top: 75px;
+padding-bottom: 180px;
+border: 200px;
+}
+h1{
+  color: rgb(0, 255, 0);
+}
+.rettangolo_colorato1{
+  background-color: rgb(0, 250, 0);
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 10px;
+}
+button{
+  padding: 5px;
+}
+.quadratino_spunta{
+ display: inline-block;
+ margin-left: 100px
+}
+h2{
+  display: inline-block;
+  color: white;
+  margin: auto;
+}
+h4{
+  color: white;
+  margin-left: 100px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+.rettangolo_colorato2{
+  background-color: rgb(255, 165, 0);
+  margin-left: 100px;
+  margin-right: 550px;
+  padding: 10px;
+  height: 12px;
+}
+.rettangolo_colorato3{
+    background-color: rgb(0, 143, 57);
+    margin-left: 100px;
+    margin-right: 350px;
+    padding: 10px;
+    height: 12px
+}
+.rettangolo_colorato4{
+    background-color: rgb(200, 50, 42);
+    margin-left: 100px;
+    margin-right: 750px;
+    padding: 10px;
+    height: 12px
+}
